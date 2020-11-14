@@ -1,0 +1,82 @@
+[
+       {
+          "slno":"1",
+          "dept":"Vegetables",
+          "name":"Onion",
+          "qty":"1",
+          "unit":"Kg",
+          "notes":"Big size"
+       },
+       {
+         "slno":"2",
+         "dept":"Vegetables",
+         "name":"Carrot",
+         "qty":"2",
+         "unit":"Kg",
+         "notes":"Long one"
+       },
+       {
+         "slno":"3",
+         "dept":"Fruits",
+         "name":"Apple",
+         "qty":"1",
+         "unit":"Kg",
+         "notes":"Medium size"
+       },
+       {
+         "slno":"4",
+         "dept":"Bakery",
+         "name":"Plum cake",
+         "qty":"1",
+         "unit":"Kg",
+         "notes":"Fresh"
+       },
+       {
+         "slno":"5",
+         "dept":"Bakery",
+         "name":"Cookies",
+         "qty":"5",
+         "unit":"Packet",
+         "notes":"Chocolate filled"
+       },
+       {
+         "slno":"6",
+         "dept":"Bakery",
+         "name":"Sweets",
+         "qty":"10",
+         "unit":"No's",
+         "notes":"laddoo"
+       },
+       {
+         "slno":"7",
+         "dept":"Frozen",
+         "name":"Ice Cream",
+         "qty":"5",
+         "unit":"Ball",
+         "notes":"vanilla & Chocolate"
+       },
+       {
+         "slno":"8",
+         "dept":"Fuits",
+         "name":"orange",
+         "qty":"3",
+         "unit":"Kg",
+         "notes":"Big ones"
+       },
+       {
+         "slno":"9",
+         "dept":"Meat",
+         "name":"chicken",
+         "qty":"12",
+         "unit":"Kg",
+         "notes":"Piece"
+       },
+       {
+         "slno":"10",
+         "dept":"Stationery",
+         "name":"Book",
+         "qty":"6",
+         "unit":"No's",
+         "notes":"Long book"
+       }
+]
