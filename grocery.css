@@ -5,8 +5,15 @@ body {
     background-color: rgb(252,152,100);
     min-width: 400px;
     min-height: 400px;
+    image-resolution: initial;
     
 }
+
+    .responsive {
+        width: 100%;
+        height: auto;
+      }
+
 tr {
     background-color: rgb(200,152,190);
     text-align: center;
