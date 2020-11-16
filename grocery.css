@@ -1,8 +1,7 @@
 body {
     background-size: cover;
     background-attachment: fixed;
-    width: 100%;
-    height: 100%;
+   
     background-color: rgb(252,152,100);
     min-width: 400px;
     min-height: 400px;
